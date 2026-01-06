@@ -1,0 +1,19 @@
+During this task, I practically tested and understood common web vulnerabilities, including:
+
+🔹 SQL Injection (SQLi):
+I learned how improper input validation can allow attackers to manipulate database queries and access unauthorized data.
+
+🔹 Cross-Site Scripting (XSS):
+I understood how malicious scripts can be injected into web pages and executed in a user’s browser, affecting user data and sessions.
+
+🔹 Cross-Site Request Forgery (CSRF):
+I learned how attackers can trick authenticated users into performing unintended actions without their knowledge.
+
+🔹 File Upload Vulnerabilities:
+I explored how insecure file upload mechanisms can allow attackers to upload malicious files and compromise the server.
+
+This hands-on practice helped me understand how real-world attacks work, why secure coding is important, and how vulnerabilities arise in web applications.
+
+I’ve shared my complete learning and step-by-step explanation in my Medium blog.
+
+https://medium.com/@umangmishra2327/web-93e4d13df35a
